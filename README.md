@@ -1,5 +1,5 @@
 # GameShopDemo
-Bir oyun yazmak istiyoruz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor.
+Bir oyun yönetim sistemi yazmak istiyoruz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor.
 
 
 ## Gereksinimler
